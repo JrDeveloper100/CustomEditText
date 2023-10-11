@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomEditText">
+        <!-- Background color attribute -->
+        <attr name="backgroundColor" format="color" />
+
+        <!-- Stroke color attribute -->
+        <attr name="strokeColor" format="color" />
+
+        <!-- Corner radius attribute -->
+        <attr name="cornerRadius" format="dimension" />
+    </declare-styleable>
+</resources>
